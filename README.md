@@ -32,3 +32,4 @@ The project employs a variety of data analysis techniques, including descriptive
 The findings of the analysis are presented in a clear and concise manner, using visualizations, tables, and summary statistics. The results highlight key insights and actionable recommendations for Restuarent owners
 
 5.Screenshot of Dashboard: 
+![FINAL DASHBOARD](https://github.com/user-attachments/assets/73f7f9c2-587d-4d43-9277-db4b0fb37b19)
